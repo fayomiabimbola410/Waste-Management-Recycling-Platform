@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.recycling-achievement-nft]
+path = 'contracts/recycling-achievement-nft.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.waste-collection]
 path = 'contracts/waste-collection.clar'
 clarity_version = 2
