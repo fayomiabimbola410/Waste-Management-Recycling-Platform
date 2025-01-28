@@ -2,6 +2,7 @@
 
 A blockchain-based platform that revolutionizes waste management by incentivizing recycling, tracking waste flows, and optimizing collection processes through smart contracts and IoT integration.
 
+
 ## Overview
 
 WasteChain creates a transparent and efficient waste management ecosystem by connecting waste generators, collectors, recyclers, and municipal authorities. The platform uses smart contracts to automate scheduling, rewards distribution, and performance tracking while leveraging IoT devices for real-time monitoring.
