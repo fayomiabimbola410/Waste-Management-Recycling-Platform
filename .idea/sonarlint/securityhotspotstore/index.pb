@@ -9,3 +9,7 @@ X
 (contracts/recycling-achievement-nft.clar,7/b/7b07be714453c6a0827a6aa04b83f2726e07600f
 W
 'tests/recycling-achievement-nft.test.ts,1/2/1258b65497515bb0fb19fdd76b1af7ec16ab6ea8
+S
+#tests/smart-bin-integration.test.ts,4/9/49b6e7cd6ecbf86ba111f0a7f635d3c5f932985b
+T
+$contracts/smart-bin-integration.clar,2/7/27e852c4dedbad520e412526a588a9a2b01dc9a8

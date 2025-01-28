@@ -55,6 +55,11 @@ plan:
             path: contracts/recycling-achievement-nft.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: smart-bin-integration
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/smart-bin-integration.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: waste-collection
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/waste-collection.clar
