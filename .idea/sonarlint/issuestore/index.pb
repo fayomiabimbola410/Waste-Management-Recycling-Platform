@@ -7,3 +7,5 @@ N
 tests/waste-collection.test.ts,7/3/73eb76c30508de0a94d760e7ebad1cdb1fa3051f
 X
 (contracts/recycling-achievement-nft.clar,7/b/7b07be714453c6a0827a6aa04b83f2726e07600f
+W
+'tests/recycling-achievement-nft.test.ts,1/2/1258b65497515bb0fb19fdd76b1af7ec16ab6ea8
